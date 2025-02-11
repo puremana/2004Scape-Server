@@ -561,6 +561,7 @@ class World {
 
             printError('All players removed.');
             printError('Closing the server.');
+            printError('Closing the server.');
             process.exit(1);
         }
     }
